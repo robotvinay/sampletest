@@ -6,3 +6,6 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_exam
 
 #EXTINF:-1 tvg-id="MuxDemo.in@HD" tvg-logo="https://avatars.githubusercontent.com/u/1357758?s=200&v=4" group-title="Test Streams",Mux Demo Stream
 https://test-streams.mux.dev/test_001/stream.m3u8
+
+#EXTINF:-1 tvg-id="Live Test TV Channel" tvg-logo="https://i.ytimg.com/vi/Xu1frX4YOPg/maxresdefault.jpg" group-title="Live Stream",Live TV test
+https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8
